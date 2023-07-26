@@ -6,4 +6,4 @@
 
 <p>𓆩⟡𓆪 To do another calculation the user can clear the screen 𓆩⟡𓆪</p>
 
-![image](https://github.com/Alexuh-jpg/Basic-Calculator/assets/112669831/696aad52-3451-43c0-8e14-3d47615782e6)
+![image](https://github.com/Alexuh-jpg/JavaScript-Projects/assets/112669831/2a6c8732-4c0c-4062-b315-7d2977eec2a4)
